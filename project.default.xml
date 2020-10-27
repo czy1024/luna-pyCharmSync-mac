@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
